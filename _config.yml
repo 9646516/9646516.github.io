@@ -1,0 +1,18 @@
+markdown:         kramdown
+highlighter:      rouge
+
+title:            '9646516'
+url:              https://9646516.github.io
+
+author:
+  name:           'Andrew Fong'
+  url:            https://twitter.com/fongandrewc
+
+paginate:         5
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+sidebar_home_link:  true
